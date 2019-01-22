@@ -9,4 +9,4 @@ El código del script está comentado en castellano línea a línea.
 
 Example / Ejemplo : 
 
-![Image of Face_Smile Detector](./Images/serious.png?raw=true "Face & Smile Detector")
+![Image of Face_Smile Detector](./Images/Serious.png?raw=true "Face & Smile Detector")
