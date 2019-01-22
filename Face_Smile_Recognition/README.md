@@ -1,3 +1,5 @@
+## Face & Smile Detector - Detector de caras y sonrisas
+
 This Face/Smile webcam detector uses object detection using Haar feature-based cascade classifier.
 XML classifiers necessary to run the detector are also included.
 
