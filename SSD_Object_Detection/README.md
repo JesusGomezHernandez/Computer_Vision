@@ -9,3 +9,5 @@ SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) publicado 
 En este ejemplo el algoritmo SSD detecta al perro y algunas plantas en macetas. La entrada es un video en formato mp4. Abajo se muestra un frame del vídeo de salida.
 
 ![Image of lolo_ouput](/Images/lolo_ouput.png?raw=true "lolo_output.png")
+![Image of Face_Smile Detector](./Images/lolo_output.png?raw=true "Face & Smile Detector")
+
